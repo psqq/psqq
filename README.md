@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @psqq
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m Sergey Petov (@psqq in GitHub)
+- 👀 I’m interested in programming and maths
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: telegram @pestovsa
