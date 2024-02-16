@@ -33,5 +33,5 @@
   * Код получившийся при прохождении html5 game development course от Google
 * [https://github.com/psqq/simple-aram-2d-moba-game](https://github.com/psqq/simple-aram-2d-moba-game)
   * Первая попытка создать moba-like игру
-* [https://github.com/psqq/taneja-task-cordova](https://github.com/psqq/taneja-task-cordova)
+* `Cordova`: [https://github.com/psqq/taneja-task-cordova](https://github.com/psqq/taneja-task-cordova), `React`: [https://github.com/psqq/taneja-task-react](https://github.com/psqq/taneja-task-react)
   * Андроид игра на `Cordova` для практики в решнии задачи Танежи
