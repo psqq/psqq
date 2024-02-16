@@ -25,10 +25,11 @@
 ## Игры
 
 * [https://github.com/psqq/alien-invasion-cordova](https://github.com/psqq/alien-invasion-cordova)
- * Игра, которая изначально была написана для браузера. Я ее перенес на `Android` с использованием `Cordova`, а также мною были добавлены разные новые фишки в игру (например, режимы стрельбы, сложность, таблица рекордов). Кем написана оригинальная версия игры не нашел, но есть такая [статья](https://github.com/psqq/alien-invasion-cordova).
+  * Игра, которая изначально была написана для браузера. Я ее перенес на `Android` с использованием `Cordova`, а также мною были добавлены разные новые фишки в игру (например, режимы стрельбы, сложность, таблица рекордов). Кем написана оригинальная версия игры не нашел, но есть такая [статья](https://github.com/psqq/alien-invasion-cordova).
+  * Игра в `Google Play`: [https://play.google.com/store/apps/details?id=ru.psqq.plasmawars](https://play.google.com/store/apps/details?id=ru.psqq.plasmawars)
+* [https://github.com/psqq/ml-v2](https://github.com/psqq/ml-v2)
+  * Вторая попытка создать moba-like игру
 * [https://github.com/psqq/html5-game-development-course](https://github.com/psqq/html5-game-development-course)
   * Код получившийся при прохождении html5 game development course от Google
 * [https://github.com/psqq/simple-aram-2d-moba-game](https://github.com/psqq/simple-aram-2d-moba-game)
-  * Попытка создать moba-like игру
-* [https://github.com/psqq/ml-v2](https://github.com/psqq/ml-v2)
-  * Вторая попытка создать moba-like игру
+  * Первая попытка создать moba-like игру
