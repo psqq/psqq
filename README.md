@@ -22,7 +22,7 @@
 * [https://github.com/psqq/diplom-graphs](https://github.com/psqq/diplom-graphs)
   * Часть моей дипломной работы, программа позволяет создавать графы и проверять их некоторые инварианты
 * [https://github.com/psqq/semi-diplom](https://github.com/psqq/semi-diplom)
-  * Дипломная работа
+  * Дипломная работа (программа на `C++` для проверки полурешеток на изоморфизм)
 * [https://github.com/psqq/sounds-app-react-native](https://github.com/psqq/sounds-app-react-native)
   * Приложение для прослушивание звуков природы
 
