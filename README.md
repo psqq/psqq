@@ -27,3 +27,5 @@
   * Попытка создать moba-like игру
 * [https://github.com/psqq/ml-v2](https://github.com/psqq/ml-v2)
   * Вторая попытка создать moba-like игру
+* [https://github.com/psqq/diplom-graphs](https://github.com/psqq/diplom-graphs)
+  * Часть моей дипломной работы, программа позволяет создавать графы и проверять их некоторые инварианты
