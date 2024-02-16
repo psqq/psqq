@@ -9,7 +9,7 @@
 ## Могут быть полезны
 
 * [https://github.com/psqq/vscode-neovim-edit](https://github.com/psqq/vscode-neovim-edit)
-  * Плагин для `VS Code`, который под горячей клавише открывает текущий редактируемый файл в `Neovim`
+  * Плагин для `VS Code`, который по горячей клавише открывает текущий редактируемый файл в `Neovim`
 * [https://github.com/psqq/translate_selection](https://github.com/psqq/translate_selection)
   * Скрипт на Python 3, который переводит выделенный текст
 * [https://github.com/psqq/anything](https://github.com/psqq/anything)
