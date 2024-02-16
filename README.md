@@ -21,6 +21,8 @@
   * Мой форк консольного текстового редактора [kilo](https://github.com/antirez/kilo), в который я добавил `SDL2`
 * [https://github.com/psqq/diplom-graphs](https://github.com/psqq/diplom-graphs)
   * Часть моей дипломной работы, программа позволяет создавать графы и проверять их некоторые инварианты
+* [https://github.com/psqq/sounds-app-react-native](https://github.com/psqq/sounds-app-react-native)
+  * Приложение для прослушивание звуков природы
 
 ## Игры
 
