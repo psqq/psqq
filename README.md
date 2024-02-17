@@ -4,6 +4,11 @@
 
 # Мои проекты
 
+## Текущие
+
+* [https://github.com/psqq/dwm](https://github.com/psqq/dwm) и [https://github.com/psqq/dwm-scripts](https://github.com/psqq/dwm-scripts)
+  * Менеджер рабочего стола, который я использую в данный момент. Пропатченный и доработанный `dwm 6.4`
+
 ## Могут быть полезны
 
 * [https://github.com/psqq/vscode-neovim-edit](https://github.com/psqq/vscode-neovim-edit)
