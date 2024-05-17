@@ -2,9 +2,7 @@
 - 👀 I’m interested in programming and maths
 - 📫 How to reach me: telegram: [@pestovsa](https://t.me/pestovsa), email: [pestov-sa@ya.ru](mailto:pestov-sa@ya.ru)
 
-# Текущие проекты
-
-Проекты над которым работаю в данный момент.
+# Недавние проекты
 
 * [https://github.com/psqq/dwm](https://github.com/psqq/dwm) и [https://github.com/psqq/dwm-scripts](https://github.com/psqq/dwm-scripts)
   * Менеджер рабочего стола, который я использую в данный момент. Пропатченный и доработанный `dwm 6.4`. Код сыроват, возможны баги 😅
@@ -12,6 +10,7 @@
 * [https://github.com/psqq/yaml_notes](https://github.com/psqq/yaml_notes)
   * Программа для ведения заметок по системе Цеттелькастен
   * `Python`, `SQLite`
+* [Блог](https://github.com/psqq/blog)
 
 # Старые проекты
 
